@@ -1,0 +1,4 @@
+mecab-python3
+numpy
+scikit-learn
+ipadic
